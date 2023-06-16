@@ -1,2 +1,8 @@
 # ios-blocks-game
-A simple game moving around block in order set one free. 
+<b>A simple game moving around block in order set one free.</b>
+
+This game was published in the iOS AppStore.
+Code now open sourced.
+
+
+
